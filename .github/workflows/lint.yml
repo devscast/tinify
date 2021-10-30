@@ -11,4 +11,4 @@ jobs:
           php-version: 8.0
       - uses: actions/checkout@master
       - name: lint
-        run: ./vendor/bin/phpcs -s
+        run: /vendor/bin/phpcs -s

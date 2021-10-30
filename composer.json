@@ -1,6 +1,14 @@
 {
     "name": "devscast/tinify",
-    "description": "Tinify PHP client",
+    "description": "PHP client for the Tinify API. Tinify compresses your images intelligently. Read more at https://tinify.com.",
+    "keywords": [
+        "tinify",
+        "tinypng",
+        "tinyjpg",
+        "compress",
+        "images",
+        "api"
+    ],
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -20,6 +28,13 @@
         "symfony/var-dumper": "^5.3"
     },
     "require": {
+        "php": ">=8.0",
         "symfony/http-client": "^5.3"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/devscast/tinify"
+        }
+    ]
 }
