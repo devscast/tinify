@@ -1,0 +1,25 @@
+{
+    "name": "devscast/tinify",
+    "description": "Tinify PHP client",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devscast\\Tinify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bernard-ng",
+            "email": "bernard@devscast.tech"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.6",
+        "symfony/var-dumper": "^5.3"
+    },
+    "require": {
+        "symfony/http-client": "^5.3"
+    }
+}
