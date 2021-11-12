@@ -1,4 +1,4 @@
-# Tinity PHP
+# Tinify PHP
 The Tinify API allows you to compress and optimize WebP, JPEG and PNG images. It is designed as a REST service. The client libraries in various languages make it very easy to interact with the Tinify API.
 
 ## installation
