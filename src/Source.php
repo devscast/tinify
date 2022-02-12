@@ -19,12 +19,12 @@ class Source
         );
     }
 
-    public function toBuffer(): string
+    public function toBuffer(): mixed
     {
         return $this->data;
     }
 
-    public function toFile($path): int|bool
+    public function toFile(string $path): int|bool
     {
         return file_put_contents($path, $this->data);
     }
