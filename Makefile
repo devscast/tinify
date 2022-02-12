@@ -5,6 +5,7 @@ help: ## affiche cet aide
 .PHONY: lint
 lint: vendor/autoload.php ## affiche les erreurs de formatage de code
 	php vendor/bin/phpcs -s
+	php vendor/bin/phpstan
 
 .PHONY: lint-fix
 lint-fix: vendor/autoload.php ## corrige les erreurs de formatage de code

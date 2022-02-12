@@ -11,5 +11,4 @@ namespace Devscast\Tinify\Exception;
  */
 class AccountException extends NetworkException
 {
-
 }

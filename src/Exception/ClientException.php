@@ -11,5 +11,4 @@ namespace Devscast\Tinify\Exception;
  */
 class ClientException extends NetworkException
 {
-
 }
