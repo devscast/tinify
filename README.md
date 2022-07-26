@@ -1,4 +1,11 @@
 # Tinify PHP
+
+![Lint](https://github.com/devscast/tinify/actions/workflows/lint.yaml/badge.svg)
+[![Latest Stable Version](https://poser.pugx.org/devscast/tinify/version)](https://packagist.org/packages/devscast/tinify)
+[![Total Downloads](https://poser.pugx.org/devscast/tinify/downloads)](https://packagist.org/packages/devscast/tinify)
+[![License](https://poser.pugx.org/devscast/tinify/license)](https://packagist.org/packages/devscast/tinify)
+
+
 The Tinify API allows you to compress and optimize WebP, JPEG and PNG images. It is designed as a REST service. The client libraries in various languages make it very easy to interact with the Tinify API.
 
 ## installation
