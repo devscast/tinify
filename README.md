@@ -1,8 +1,10 @@
 # Tinify PHP
 
-[![Latest Stable Version](https://poser.pugx.org/devscast/tinify/version)](https://packagist.org/packages/devscast/tinify)
-[![Total Downloads](https://poser.pugx.org/devscast/tinify/downloads)](https://packagist.org/packages/devscast/tinify)
-[![License](https://poser.pugx.org/devscast/tinify/license)](https://packagist.org/packages/devscast/tinify)
+[![Latest Stable Version](http://poser.pugx.org/devscast/tinify/v)](https://packagist.org/packages/devscast/tinify) 
+[![Total Downloads](http://poser.pugx.org/devscast/tinify/downloads)](https://packagist.org/packages/devscast/tinify) 
+[![Latest Unstable Version](http://poser.pugx.org/devscast/tinify/v/unstable)](https://packagist.org/packages/devscast/tinify) 
+[![License](http://poser.pugx.org/devscast/tinify/license)](https://packagist.org/packages/devscast/tinify) 
+[![PHP Version Require](http://poser.pugx.org/devscast/tinify/require/php)](https://packagist.org/packages/devscast/tinify)
 
 
 The Tinify API allows you to compress and optimize WebP, JPEG and PNG images. It is designed as a REST service. The client libraries in various languages make it very easy to interact with the Tinify API.
